@@ -1,0 +1,13 @@
+div.tasklist {
+  border : solid thin #CCC;
+  padding : 4px;
+  display : inline-block;
+  width : 340px;
+  margin-top : 10px;
+  border : medium solid DarkSlateGrey;
+  background-color : white;
+}
+
+div.tasklist h3 {
+  margin : 10px auto;
+}
